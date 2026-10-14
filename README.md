@@ -22,4 +22,4 @@ Estudiante de Ingeniería de Sistemas e Informática (UTP), especializada en Dat
 ![](https://github-contributor-stats.vercel.app/api?username=MichellBroRa&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
 ---
-![Visitas](![](https://komarev.com/ghpvc/?username=MichellBroRa))
+![](https://komarev.com/ghpvc/?username=MichellBroRa)
