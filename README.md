@@ -16,7 +16,6 @@ Estudiante de Ingeniería de Sistemas e Informática (UTP), especializada en Dat
 ![](https://github-profile-trophy.vercel.app/?username=MichellBroRa&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Frase favorita
-![](./assets/frase.svg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MichellBroRa&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
